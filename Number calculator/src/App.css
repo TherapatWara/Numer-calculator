@@ -1,0 +1,136 @@
+*{
+  
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0px;
+  font-family: 'PT Sans', sans-serif;
+  
+}
+
+.bg-font{
+  
+  font-size: 30px;
+  color: aliceblue;
+  background-color: #323437;
+}
+
+.logo{
+  padding: 20px;
+  margin-left: 50px;
+  font-size: 30px;
+  margin-bottom: 10px;
+  
+}
+
+.input{
+  text-align: center;
+  background-color: #2c2e31;
+  color:#e2b714;
+  margin-left: -15px;
+  font-size: 15px;
+  width: 100px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.inputfunction{
+  text-align: center;
+  color: #e2b714;
+  background-color: #2c2e31;
+  margin-left: -15px;
+  font-size: 15px;
+  width: 150px;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.inputmatrix{
+ 
+  color: #e2b714;
+  background-color: #2c2e31;
+  margin-left: 70px;
+  font-size: 15px;
+  width: 0px;
+  margin-bottom: -20px;
+ 
+}
+
+.botton{
+  border-radius: 10px;
+  border-color: aliceblue;
+  margin-top: 20px;
+  margin-left: 70px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  width: 150px;
+  height: 50px;
+  background-color: #e2b714;
+}
+
+.bottonC{
+
+  border-radius: 10px;
+  border-color: aliceblue;
+  margin-top: 20px;
+  margin-left: 1250px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  width: 150px;
+  height: 50px;
+  background-color: aliceblue;
+}
+.bottonC1{
+
+  border-radius: 10px;
+  border-color: aliceblue;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  width: 150px;
+  height: 50px;
+  background-color: aliceblue;
+}
+
+.ansZone{
+  padding: 20px;
+  display: block;
+  margin-top: 5px;
+  margin-left: 50px;
+  font-size: 20px;
+  color:black;
+  margin-bottom: 5px;
+  align-items: center;
+}
+
+.ansZoneMatrix{
+  padding: 20px;
+  display: block;
+  margin-top: 5px;
+  margin-left: 50px;
+  font-size: 10px;
+  color:aliceblue;
+  margin-bottom: 5px;
+  align-items: center;
+}
+
+.ansZoneInter{
+  padding: 20px;
+  display: block;
+  margin-top: 5px;
+  margin-left: 50px;
+  font-size: 40px;
+  color:black;
+  margin-bottom: 5px;
+  align-items: center;
+}
+
+.text{
+  margin-left: 50px;
+}
+
+.table{
+  align-items: center;
+
+}
+
